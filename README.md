@@ -8,6 +8,7 @@
 ## Prérequis
 * Ruby 3.0.0 et supérieur (https://www.ruby-lang.org/fr/documentation/installation/)
 * Rails 7.0.0 et supérieur (Une fois ruby installé, exécuter la commande `gem install rails`)
+* Une fois dans le dossier, utiliser la commande `rails new .`
 ##### /!\ Important: Une fois dans le projet, exécuter la commande `sudo bundle install` pour installer les dépendances du projet
 
 ## Lancer le projet
