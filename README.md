@@ -23,6 +23,8 @@ Ce projet est décomposé en plusieurs étapes:
 3. Pouvoir afficher la liste des joueurs créés
 4. Créer un nouvel objet "Équipe" possédant un nom et une liste de joueurs, puis pouvoir créer, modifier et supprimer une équipe
 5. Limiter le nombre de joueurs par équipe à 5
+
+##### Bonus
 6. Permettre à l'utilisateur de créer un tournoi, celui-ci créera 8 équipes chacunes peuplées de 5 joueurs créés au même moment
 7. Lancer ce tournoi, chaque équipe peut gagner (3 points), perdre (0 points) ou faire match nul (1 point), le tournoi se termine quand toutes les équipes ont joué chacune l'une contre l'autre
 8. Dresser un classement des équipes en fonction de leur score
